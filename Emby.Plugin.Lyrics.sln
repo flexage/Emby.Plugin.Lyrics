@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emby_Lyrics_Provider", "Emby_Lyrics_Provider\Emby_Lyrics_Provider.csproj", "{59B96B94-3A14-4094-AC8D-7254A336A334}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emby.Plugin.Lyrics", "Emby.Plugin.Lyrics\Emby.Plugin.Lyrics.csproj", "{7F1D5CC6-8ABD-42AC-907D-C074D06BD7F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59B96B94-3A14-4094-AC8D-7254A336A334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59B96B94-3A14-4094-AC8D-7254A336A334}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59B96B94-3A14-4094-AC8D-7254A336A334}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59B96B94-3A14-4094-AC8D-7254A336A334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1D5CC6-8ABD-42AC-907D-C074D06BD7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1D5CC6-8ABD-42AC-907D-C074D06BD7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1D5CC6-8ABD-42AC-907D-C074D06BD7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1D5CC6-8ABD-42AC-907D-C074D06BD7F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
